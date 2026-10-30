@@ -1,0 +1,10 @@
+{
+  "name": "age-checker",
+  "version": "1.0.0",
+  "description": "Small demo for a CI check",
+  "main": "age.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
